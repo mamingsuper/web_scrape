@@ -38,5 +38,5 @@ Example: collect discussion about digital governance on Weibo**
 
 1. **High code (write all the code from 0 )
 Example: collect data from Russia Today on Weibo**
-- Bonus: ```RT_weibo.ipynb```
+- Bonus: ```RT_weibo.ipynb``` and ```use_api.ipynb```
 - Useful tools: [Curltransformer](https://curlconverter.com/)
